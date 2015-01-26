@@ -1,0 +1,116 @@
+GNU Octave, version 3.8.2
+Copyright (C) 2014 John W. Eaton and others.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.
+
+Octave was configured for "x86_64-redhat-linux-gnu".
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/get-involved.html
+
+Read http://www.octave.org/bugs.html to learn how to submit bug reports.
+For information about changes from previous versions, type 'news'.
+
+mycolors = bkmrgcy
+mylines = ---:-.
+
+NN =  20
+nargin=:4
+maxblocks=:4
+There are now 1 threads ii=: 0
+There are now 4 threads ii=: 0
+ ii=: 1
+There are now 4 threads ii=: 1
+ ii=: 2
+There are now 4 threads ii=: 2
+ ii=: 3
+There are now 4 threads ii=: 3
+a =
+   8.44723
+   8.25603
+   7.38356
+   6.49103
+   6.06832
+   5.70234
+   4.54439
+   4.40176
+   3.96885
+   3.68774
+   3.32036
+   3.16616
+   2.46327
+   2.17187
+   1.98818
+   1.57798
+   1.31332
+   0.70713
+   0.49181
+   0.12144
+b =
+   7.69536
+   7.32832
+   6.40704
+   5.97078
+   5.71930
+   5.51902
+   5.38207
+   4.44642
+   4.41671
+   4.01288
+   3.40749
+   3.21724
+   2.85462
+   2.36670
+   1.90681
+   1.77053
+   1.50784
+   0.96910
+   0.30166
+   0.19510
+c =
+   7.38113
+   7.09516
+   6.35155
+   6.25910
+   5.81803
+   5.56193
+   5.45113
+   4.98670
+   4.12693
+   4.07843
+   3.81661
+   3.08103
+   2.92842
+   2.42694
+   2.03191
+   1.83901
+   1.64247
+   1.15802
+   0.72092
+   0.33842
+d =
+   8.46152
+   7.25370
+   6.74206
+   6.54925
+   5.82920
+   5.57384
+   4.96462
+   4.42568
+   4.19326
+   3.88312
+   3.31904
+   3.20039
+   2.74993
+   2.52723
+   2.04532
+   1.59127
+   1.24827
+   0.94290
+   0.27902
+   0.18112
+libGL error: failed to authenticate magic 52
+libGL error: failed to load driver: r600
